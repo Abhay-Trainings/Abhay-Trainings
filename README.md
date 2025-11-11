@@ -1,6 +1,8 @@
-# Hi 👋, I'm Abhay Raghuram
+# Hi 👋, I'm Abhay 
 
 ### Your Future Developer—Patch Notes Included with Every Commit
+
+#### This Is A Learning Profile To Gain Hands-on Experience Working with Git And Store My Learning Projects
 
 - 🔭 I'm currently working on **Javascript Beginner Projects**
 
